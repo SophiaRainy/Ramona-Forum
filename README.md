@@ -46,7 +46,7 @@
 
 1. 克隆仓库
    ```bash
-   git clone https://github.com/yourusername/community-software.git
+   git clone https://github.com/SophiaRainy/Ramona-Forum
    cd community-software
    ```
 
