@@ -1,0 +1,8 @@
+mkdir community-software
+cd community-software
+npm init -y
+npm install express mongoose bcryptjs jsonwebtoken
+npm install --save-dev nodemon
+mkdir src
+mkdir src/models src/routes src/controllers src/middleware
+touch src/server.js
